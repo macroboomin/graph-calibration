@@ -2,3 +2,4 @@
 *.pickle
 *.gpickle
 *.pth
+*.DS_Store
